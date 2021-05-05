@@ -1,0 +1,20 @@
+[
+  {
+    "flashCardFront": "ありがと",
+    "translation": "Thank you",
+    "kunyomi": "What I sound like alone",
+    "onyomi": ["what", "I", "might", "sound", "like", "in sentences"]
+  },
+  {
+    "flashCardFront": "すみません",
+    "translation": "Excuse me/Sorry",
+    "kunyomi": "What I sound like alone",
+    "onyomi": ["what", "I", "might", "sound", "like", "in sentences"]
+  },
+  {
+    "flashCardFront": "ただいま",
+    "translation": "I'm home",
+    "kunyomi": "What I sound like alone",
+    "onyomi": ["what", "I", "might", "sound", "like", "in sentences"]
+  }
+]

@@ -1,14 +1,14 @@
 [
   {
     "flashCardFront": "ありがと",
-    "flashCardReverse": "Thank you"
+    "translation": "Thank you"
   },
   {
     "flashCardFront": "すみません",
-    "flashCardReverse": "Excuse me/Sorry"
+    "translation": "Excuse me/Sorry"
   },
   {
     "flashCardFront": "ただいま",
-    "flashCardReverse": "I'm home"
+    "translation": "I'm home"
   }
 ]
